@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  wine:
+    build:
+      context: .
+    ports:
+      - "8080"
+    volumes:
+      - ./ComicArt:/root/prefix32/drive_c/Program Files/Microsoft Chat/ComicArt
+  
+  inspircd:
+    image: inspircd/inspircd-docker
+    ports:
+      - 6667:6667

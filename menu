@@ -1,0 +1,5 @@
+[begin] (fluxbox)
+[exec] (MS Chat) {/root/run.sh}
+[include] (/etc/X11/fluxbox/fluxbox-menu)
+[end]
+
