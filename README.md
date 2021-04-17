@@ -1,7 +1,10 @@
 # Comic Chat Docker Compose
 
-Talk to yourself in Microsoft Chat. Spin up an IRC server and an arbitrary number of comic-chat running clients. The clients can be controlled via noVNC.
+Talk to yourself in Microsoft Chat. Spins up an IRC server and an arbitrary number of comic-chat running clients. Access the clients via noVNC and make them talk to each other.
 
+## Why?
+
+Coming up short on practical uses for this one.
 
 ## Getting Started
 
@@ -31,12 +34,11 @@ To add custom characters/backgrounds, copy them to the ComicArt folder. It's map
 
 
 ## Comic Chat Resources
-[Mermeliz comic chat resource page](http://mermeliz.com/index.htm)
 
-[Tips for running in Wine](http://microsoftchat.blogspot.com/2018/01/successful-installation-of-microsoft.html)
+- [Mermeliz comic chat resource page](http://mermeliz.com/index.htm) (.exe was downloaded from here)
+- [Tips for running in Wine](http://microsoftchat.blogspot.com/2018/01/successful-installation-of-microsoft.html)
 
 ## TODO
 
-- Make image smaller
 - Autostart comic chat instead of explorer
 
