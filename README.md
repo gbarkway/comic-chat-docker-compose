@@ -2,6 +2,8 @@
 
 Talk to yourself in Microsoft Chat. Spins up an IRC server and an arbitrary number of comic-chat running clients. Access the clients via noVNC and make them talk to each other.
 
+![Screenshot](screenshot.png)
+
 ## Why?
 
 Coming up short on practical uses for this one.
