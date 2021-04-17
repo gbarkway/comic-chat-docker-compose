@@ -19,7 +19,9 @@ while : ; do
 done
 
 xdotool windowactivate $WINDOW_ID
-xdotool key --delay 150 Return Tab Return
+xdotool key --delay 300 Return 
+xdotool key --delay 300 Tab 
+xdotool key --delay 300 Return
 
 wine "$CCHAT_PATH" &
 exit 0
