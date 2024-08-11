@@ -4,10 +4,6 @@ Talk to yourself in Microsoft Chat. Spins up an IRC server and an arbitrary numb
 
 ![Screenshot](screenshot.png)
 
-## Why?
-
-Coming up short on practical uses for this one.
-
 ## Getting Started
 
 First, start the containers
